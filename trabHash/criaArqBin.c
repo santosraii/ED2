@@ -11,7 +11,8 @@ typedef struct Cliente {
 
 void criarArquivoBinario(const char *nomeArquivo) {
     // Entrada 1
-    /*Cliente clientes[] = {
+    /*
+    Cliente clientes[] = {
         {10, "Cliente 10"},
         {3, "Cliente 3"},
         {5, "Cliente 5"},
@@ -20,10 +21,15 @@ void criarArquivoBinario(const char *nomeArquivo) {
         {6, "Cliente 6"},
         {14, "Cliente 14"},
         {4, "Cliente 4"},
-        {8, "Cliente 8"}
-    };*/
+        {8, "Cliente 8"},
+        {20, "Cliente 20"},
+        {22, "Cliente 22"}
 
-    ///*
+
+    };
+    */
+
+   // /*
     // Entrada 2
     Cliente clientes[] = {
         {15, "Cliente 15"},
@@ -34,7 +40,9 @@ void criarArquivoBinario(const char *nomeArquivo) {
         {25, "Cliente 25"},
         {11, "Cliente 11"},
         {30, "Cliente 30"},
-        {2, "Cliente 2"}
+        {2, "Cliente 2"},
+        {16, "Cliente 16"}
+
     };
    // */
 
